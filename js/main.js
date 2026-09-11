@@ -58,7 +58,7 @@
 
   /* Scroll reveal animations */
   const revealElements = document.querySelectorAll(
-    '.section__header, .about__card, .about__highlights, .timeline__card, .edu-card, .pub-card, .cert-card, .skills__block, .contact-card, .highlight-card, .experience-brief'
+    '.section__header, .about__card, .about__highlights, .edu-card, .pub-card, .cert-card, .contact-card'
   );
 
   revealElements.forEach(function (el) {
